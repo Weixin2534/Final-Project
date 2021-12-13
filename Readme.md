@@ -2,7 +2,7 @@
 # The Connection between Northeastern United States Warming and Northwest Atlantic Shelf Warming.
 ## Scientific Question
 
-The connection between the coastal northeastern United States (NEUS) warming and Northwest Atlantic Shelf (NWS) warming.
+The coastal northeastern United States (NEUS) has been the fastest warming region in North America, and the adjacent Northwest Atlantic shelf (NWS) region has also warmed twice as fast as the global ocean over recent decades. Here, we will explore the connection between the increase in sea surface temperature (SST) of NWS and the increase in surface air temperature (SAT) of NEUS from 1902 to 2020.
 
 ## Analysis Plan
 
