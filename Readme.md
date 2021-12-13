@@ -13,4 +13,3 @@ The connection between the coastal northeastern United States (NEUS) warming and
 
 - Monthly Temprature Variation: https://data.ceda.ac.uk/badc/cru/data/cru_ts/cru_ts_4.05/data/tmp
 - SST: https://www.metoffice.gov.uk/hadobs/hadisst/data/download.html
-- AMOC Index Time Series: http://www.pik-potsdam.de/~caesar/AMOC_slowdown/sg_index_hadisst.txt
